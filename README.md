@@ -1,6 +1,7 @@
 # Bink Video Player for Unity
 
-With this you can play Bink 1 videos in Unity.
+With this you can play Bink 1 videos in Unity. Supports transparency, rewind and XML subtitles.
+
 Please place .dll file into Plugins directory before use.
 
 ### How to play video on screen
